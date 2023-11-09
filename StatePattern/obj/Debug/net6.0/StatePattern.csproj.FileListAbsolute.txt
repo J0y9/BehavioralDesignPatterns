@@ -1,0 +1,15 @@
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.exe
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll
