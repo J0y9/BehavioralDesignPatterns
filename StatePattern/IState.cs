@@ -1,6 +1,6 @@
 namespace StatePattern;
 
-public  interface IState
+public interface IState
 {
      void InsertMoney();
     void SelectItem();

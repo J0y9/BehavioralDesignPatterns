@@ -2,7 +2,7 @@
 
 using StatePattern;
 
-var vendingMachine = new VendingMachine(new Ready());
+var vendingMachine = new VendingMachine(new Selecting());
 vendingMachine.InsertMoney();
 vendingMachine.SelectItem();
 vendingMachine.DispenseItem();

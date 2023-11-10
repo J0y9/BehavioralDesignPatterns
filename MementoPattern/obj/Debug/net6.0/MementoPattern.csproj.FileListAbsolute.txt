@@ -1,0 +1,15 @@
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\bin\Debug\net6.0\MementoPattern.exe
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\bin\Debug\net6.0\MementoPattern.deps.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\bin\Debug\net6.0\MementoPattern.runtimeconfig.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\bin\Debug\net6.0\MementoPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\bin\Debug\net6.0\MementoPattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.csproj.AssemblyReference.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfoInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.AssemblyInfo.cs
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\refint\MementoPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\MementoPattern.genruntimeconfig.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\MementoPattern\obj\Debug\net6.0\ref\MementoPattern.dll
