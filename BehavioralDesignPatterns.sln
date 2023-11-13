@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistorPattern", "VistorPattern\VistorPattern.csproj", "{4A36408A-30C3-4EDC-B20A-D0EC6064B784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{C9B133D9-2588-4AFE-9D2D-29233CA76AA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4A36408A-30C3-4EDC-B20A-D0EC6064B784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A36408A-30C3-4EDC-B20A-D0EC6064B784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A36408A-30C3-4EDC-B20A-D0EC6064B784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B133D9-2588-4AFE-9D2D-29233CA76AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B133D9-2588-4AFE-9D2D-29233CA76AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B133D9-2588-4AFE-9D2D-29233CA76AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B133D9-2588-4AFE-9D2D-29233CA76AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
