@@ -1,0 +1,15 @@
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\bin\Debug\net6.0\VistorPattern.exe
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\bin\Debug\net6.0\VistorPattern.deps.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\bin\Debug\net6.0\VistorPattern.runtimeconfig.json
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\bin\Debug\net6.0\VistorPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\bin\Debug\net6.0\VistorPattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.csproj.AssemblyReference.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.AssemblyInfoInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.AssemblyInfo.cs
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\refint\VistorPattern.dll
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.pdb
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\VistorPattern.genruntimeconfig.cache
+C:\Users\jaafa\RiderProjects\BehavioralDesignPatterns\VistorPattern\obj\Debug\net6.0\ref\VistorPattern.dll
